@@ -6,6 +6,6 @@ when setting up a new mac or simply persisting that configuration.
 
 ## Changelog
 
-# 2024-02-15
+### 2024-02-15
 Initialise the repository. Currently contians some keyboard shortcuts for jumping to specific tabs,
 infinite scroll behaviour, and some basic colours.
